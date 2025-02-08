@@ -1,1 +1,1 @@
-print("random")wd
+print("random")swd
